@@ -9,6 +9,7 @@
 - Delete a word (doesn't include whitespace): daw
 - Delete character left/right: d<-, d->
 - Delete remainder of word: dw
+- Insert after current character: a
 
 # Insert mode
 

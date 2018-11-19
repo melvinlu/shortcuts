@@ -10,6 +10,14 @@
 - Delete character left/right: d<-, d->
 - Delete remainder of word: dw
 - Insert after current character: a
+- Undo: u
+- Redo: ctrl + r
+- Go back one word (to any punctuation): b
+- Go back one word (decided by whitespace): B
+- Go back one word, to end (to any punctuation): ge
+- Go back one word, to end (decided by whitespace): gE
+- Go forward one word (to any punctuation): w
+- GO forward one word (decided by whitespace): W
 
 # Insert mode
 

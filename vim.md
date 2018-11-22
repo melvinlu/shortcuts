@@ -21,3 +21,4 @@
 - Motion commands: number + any of these commands
 - Marks: m + <a-z> 
 - Delete from mark to current: d'<a-z>
+- Search for word: / or ? (n to go to next occurrence)

@@ -1,4 +1,3 @@
-# Normal mode
 - Go to end of line: $
 - Go to beginning of line: 0
 - Modify current word in-place (switches to insert mode): ciw
@@ -17,10 +16,8 @@
 - Go back one word, to end (to any punctuation): ge
 - Go back one word, to end (decided by whitespace): gE
 - Go forward one word (to any punctuation): w
-- GO forward one word (decided by whitespace): W
-
-# Insert mode
-
-# Misc
+- Go forward one word (decided by whitespace): W
 - ctrl + o: go to normal mode for one commmand only
-
+- Motion commands: number + any of these commands
+- Marks: m + <a-z> 
+- Delete from mark to current: d'<a-z>
